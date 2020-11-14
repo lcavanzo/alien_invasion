@@ -1,5 +1,3 @@
 Using python3
 
-
-TODO:
-Scoring
+A simple but funny Alien Invasion game :)
